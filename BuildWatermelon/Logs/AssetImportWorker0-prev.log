@@ -1,0 +1,115 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 16299.1087; Version 1709; 64bit' Language: 'zh' Physical Memory: 12240 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/BaiduNetdiskDownload/源码+素材+PPT/源码+素材+PPT/Build Watermellon!
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60506
+Successfully changed project path to: H:/BaiduNetdiskDownload/源码+素材+PPT/源码+素材+PPT/Build Watermellon!
+H:/BaiduNetdiskDownload/源码+素材+PPT/源码+素材+PPT/Build Watermellon!
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 57.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path E:/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/BaiduNetdiskDownload/源码+素材+PPT/源码+素材+PPT/Build Watermellon!/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   
+    VRAM:     2987 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'E:/Unity/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002467 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.161 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.101 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.3 MB.
+System memory in use after: 69.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 2.517331 ms (FindLiveObjects: 0.164832 ms CreateObjectMapping: 0.131647 ms MarkObjects: 2.110357 ms  DeleteObjects: 0.108308 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GUI CARTOON/FONTS/KOMIKAX_.ttf
+  artifactKey: Guid(4b31b2a98fe29f04b9a6614fd9c59aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI CARTOON/FONTS/KOMIKAX_.ttf using Guid(4b31b2a98fe29f04b9a6614fd9c59aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1728355cbe99f33403909bd0e5a88c') in 0.158236 seconds
+  Import took 0.161161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/GUI CARTOON/SOUND/Click_Boton.mp3
+  artifactKey: Guid(57cf460a10b91744aa4aa7c88aa259d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI CARTOON/SOUND/Click_Boton.mp3 using Guid(57cf460a10b91744aa4aa7c88aa259d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cecfbe0049650c9f81e5b20b22d37d9f') in 0.191052 seconds
+  Import took 0.193764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/GUI CARTOON/PSD/Panel.psd
+  artifactKey: Guid(f9918f26e5f47934fb55b6bbab09bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI CARTOON/PSD/Panel.psd using Guid(f9918f26e5f47934fb55b6bbab09bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ac1686e5ef44cbb7dfbcda47ba0812') in 0.035347 seconds
+  Import took 0.042458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/GUI CARTOON/PSD/Button-Items.psd
+  artifactKey: Guid(bbd36df1008581848a5a25bf39c8e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI CARTOON/PSD/Button-Items.psd using Guid(bbd36df1008581848a5a25bf39c8e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8976794dad3c1a5ef4425b43b5550b') in 0.014551 seconds
+  Import took 0.017774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/GUI CARTOON/SCRIPTS/ChangeScene.cs
+  artifactKey: Guid(da51756a30da2f448bfac5da99a381a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GUI CARTOON/SCRIPTS/ChangeScene.cs using Guid(da51756a30da2f448bfac5da99a381a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ab189fc1a4f1533e8f1dbca609a0fa') in 0.016326 seconds
+  Import took 0.020405 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
